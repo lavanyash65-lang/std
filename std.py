@@ -4,7 +4,7 @@ def student_details(name, roll_no, course, marks):
         f"Roll Number: {roll_no}\n"
         f"Course: {course}\n"
         f"Marks: {marks}"
-    )
+            )
     return result
 
 if __name__ == "__main__":
